@@ -1,0 +1,3 @@
+#include "users.h"
+
+UsersController Users = { userExists, isUserAdmin, isLoggedIn, getUserByUsername, insertUserAtEnd, saveUserToFile, importUsersFromFile, refreshUsersFile, createUser, registerUser, removeUser, checkLogin, login, adminLogin, logout, adminLogout, compareUsersByUsername, insertionSortUsersByUsername, insertionSortUsersByAge, displayUsers, displayPlayers, updatePlayingDate, freeUsers };

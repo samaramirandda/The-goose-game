@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "autoload.h": "c",
+        "system.h": "c"
+    }
+}

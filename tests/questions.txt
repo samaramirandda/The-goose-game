@@ -1,0 +1,15 @@
+What is the capital of France?
+0
+Paris
+Rome
+London
+Madrid
+----
+The sun rises in the east.
+1
+True
+----
+What is the answer to the ultimate question of life, the universe, and everything?
+2
+42
+----
